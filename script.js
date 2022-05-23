@@ -86,3 +86,11 @@ const initApp = () => fetch('https://62860d1f96bccbf32d6e2c06.mockapi.io/Vehicle
     .catch(catchError);
 
 initApp();
+
+
+
+
+
+
+
+
